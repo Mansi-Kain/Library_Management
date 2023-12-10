@@ -97,8 +97,8 @@ To seed the database with mock data, follow these steps:
 env
 - Copy code
 
-    ```MONGODB_URI=<your-mongodb-connection-string>
-    ```
+    `MONGODB_URI=<your-mongodb-connection-string>`
+
     Replace <your-mongodb-connection-string> with your MongoDB connection string.
 
 
